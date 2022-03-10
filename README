@@ -1,4 +1,21 @@
 WELCOME TO TALBERT AND CHRIS CLI
+*************************************
+1. Begin by creating an executable
+gcc clipage.c -lreadline –pthread
+
+2. Run the executable
+./a.out
+
+3. Enter the Command Line and run command page page.txt
+page page.txt
+
+4. Leave Command Line
+exit
+
+5. Check the file
+nano page.txt
+
+
 COMMANDS INCLUDE
 
 RUN ./a.out
